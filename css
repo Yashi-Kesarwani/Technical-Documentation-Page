@@ -1,0 +1,29 @@
+@media {}
+header {
+  font-weight: bold;
+  font-size: 25px;
+}
+a {
+  line-height: 1;
+  color: black;
+  text-decoration: none;
+}
+code {
+  padding: 10px;
+  background-color: #DCDCDC;
+}
+ul {
+  list-style-type: none;
+}
+#navbar {
+  background-color: #DCDCDC;
+  font-size: 20px;
+  top: 0px;
+  margin-top: 10px;
+  margin-left: 0px;
+  position: fixed;
+}
+.sections {
+  margin-left: 350px;
+  margin-top: 0px;
+}
